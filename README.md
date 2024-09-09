@@ -12,11 +12,11 @@ Este repositório contém um programa simples para calcular o Índice de Massa C
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem de Programação:** [Inserir linguagem, ex: Python, Java, C#]
-- **Bibliotecas:** [Inserir bibliotecas ou frameworks utilizados, se houver]
+- **Linguagem de Programação:** Python.
+- **Bibliotecas:** Não tem
 
 ## 📥 Como Usar
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/programa-calcular-imc.git
+   git clone https://github.com/KevinClarkDN/programa-calcular-imc.git
